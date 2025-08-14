@@ -1,0 +1,1 @@
+# mine_panda3d
